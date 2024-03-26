@@ -1,4 +1,4 @@
-# weatherapi🌤
+# weatherapi🌤 https://exquisite-chebakia-0cb9c3.netlify.app
 ### 프로젝트 소개
  React를 사용한 간단한 날씨 앱입니다. OpenWeatherMap API를 통해 실시간 날씨 정보를 가져오며, 현재 위치 또는 미리 정의된 도시에서 날씨를 확인할 수 있습니다.
 ### 기능 
